@@ -1,0 +1,29 @@
+{
+  "name": "mean_crud",
+  "version": "0.0.1",
+  "description": "mean crud tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kirkkohler/mean_crud.git"
+  },
+  "keywords": [
+    "tutorial",
+    "crud",
+    "mean",
+    "nodejs",
+    "angularjs"
+  ],
+  "author": "Kirk Kohler",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kirkkohler/mean_crud/issues"
+  },
+  "homepage": "https://github.com/kirkkohler/mean_crud",
+  "dependencies": {
+    "mongodb": "^1.4.7"
+  }
+}
